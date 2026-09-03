@@ -1,0 +1,6 @@
+{
+  "id": "meow",
+  "displayName": "Meow",
+  "description": "A detailed neon fantasy cat companion based on the supplied character references.",
+  "spritesheetPath": "spritesheet.webp"
+}
