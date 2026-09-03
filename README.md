@@ -6,10 +6,6 @@
 
 This is an unofficial Codex animated pet inspired by the Identity V survivor Lanternist (Amanda Gaddis) and her S-tier costume “Feast on This Shore”.
 
-项目同时使用《第五人格》社区常用的中文名称和官方英文名称，方便不同语言的玩家识别和使用。
-
-The project includes both the Chinese names commonly used by the Identity V community and the official English names for easier identification across languages.
-
 ## 文件内容 | Contents
 
 - `pet/pet.json` — 宠物配置文件 / Pet configuration
