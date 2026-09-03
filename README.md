@@ -1,10 +1,10 @@
 # Identity V 幻灯师「于此岸赴宴」｜Lanternist “Feast on This Shore” Codex Pet
 
-第五人格（Identity V）幻灯师 / Lanternist（Amanda Gaddis）「于此岸赴宴」/ “Feast on This Shore” 的非官方 Codex 动态宠物。
+An unofficial Codex animated pet inspired by the Identity V survivor Lanternist (Amanda Gaddis) and her S-tier costume “Feast on This Shore”.
 
-## Search keywords
+这是一个以《第五人格》求生者幻灯师（Lanternist，Amanda Gaddis）及其时装「于此岸赴宴」为灵感制作的非官方 Codex 动态宠物。
 
-第五人格、幻灯师、于此岸赴宴、第五人格幻灯师、Identity V、Lanternist、Feast on This Shore、Amanda Gaddis、Codex Pet
+The project uses the official English names alongside the Chinese names commonly used by the Identity V community, so the character and costume are easy to identify in both contexts.
 
 ## Contents
 
