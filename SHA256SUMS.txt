@@ -48,7 +48,7 @@ ce7daa0028d174802540e2369138ec4240b46285cc61f10f97314287fc9519ab  preview/机械
 7b358bb0efa60bc2be590a6483fa372f9f446faa2c5f00c3370ab765cb1dd90e  preview/机械师·锁芯 Q版/contact-sheet.png
 165b14bfbf5c94ca2a20d1ec098bbfc27d2b128d210c85820ed8ad2c8081182e  preview/机械师·锁芯 Q版/failed.gif
 e7d8d43742dbbe02f48cfcbd08f323a1ca1161ab19141debd78ba18eaaa25884  preview/机械师·锁芯 Q版/idle-jump-idle.gif
-f11a3e504c9bf9684e8e81a8b8b19fc94c22827652139e4831330ef563176473  preview/机械师·锁芯 Q版/idle.gif
+d029a53ce0838ff7d0eb7817c43984711b68fae25dd82844accbaea6e414c710  preview/机械师·锁芯 Q版/idle.gif
 e72794597c74b342135ed5a788781cc99687e0dae38968ea518a470da6da8ca7  preview/机械师·锁芯 Q版/jumping.gif
 349ed900759aa80050a5c14f5c136e5415e953d8fa35aa8b5f27d7c58aa3cd51  preview/机械师·锁芯 Q版/look-directions.png
 a11ea4dd4274e5d4a57e18d3fed299e071c54ce043dd529c715407c4723ed2dc  preview/机械师·锁芯 Q版/look-loop.gif
