@@ -17,6 +17,7 @@
 | 机械师 · 锁芯 | 标准版 | [下载 ZIP](downloads/机械师·锁芯.zip) | [全部动作](preview/机械师·锁芯/all-states.gif) · [动作总览](preview/机械师·锁芯/contact-sheet.png) |
 | 机械师 · 锁芯 | Q版 | [下载 ZIP](downloads/机械师·锁芯%20Q版.zip) | [全部动作](preview/机械师·锁芯%20Q版/all-states.gif) · [MP4](preview/机械师·锁芯%20Q版/all-states.mp4) · [动作总览](preview/机械师·锁芯%20Q版/contact-sheet.png) |
 | 舞女 · 钟阁杼思 | 原版 | [下载 ZIP](downloads/舞女·钟阁杼思.zip) | [全部动作](preview/舞女·钟阁杼思/all-states.gif) · [动作总览](preview/舞女·钟阁杼思/contact-sheet.png) |
+| 祭司 · 绯 | 修长玩偶版 | [下载 ZIP](downloads/祭司·绯.zip) | [全部动作](preview/祭司·绯/all-states.gif) · [MP4](preview/祭司·绯/all-states.mp4) |
 
 ## 角色与时装
 
@@ -53,6 +54,14 @@
 ![舞女·钟阁杼思](preview/舞女·钟阁杼思/idle.gif)
 
 [全部动作](preview/舞女·钟阁杼思/all-states.gif) · [16 方向注视](preview/舞女·钟阁杼思/look-loop.gif)
+
+### 祭司 · 绯
+
+红发、黑色弯角和十字纽扣眼，被收进黑白裙装的修长玩偶轮廓。她停下脚步抬手招呼，再屈膝跃起；本次发布包含已确认的跳跃与打招呼修正版。
+
+![祭司·绯](preview/祭司·绯/idle.gif)
+
+[全部动作](preview/祭司·绯/all-states.gif) · [MP4](preview/祭司·绯/all-states.mp4) · [16 方向注视](preview/祭司·绯/look-loop.gif)
 
 ## 安装到 Codex
 
@@ -101,3 +110,4 @@
 - 社区投稿：在对应作品说明中保留原作者、贡献者与来源
 
 详见 [NOTICE.md](NOTICE.md)。
+
