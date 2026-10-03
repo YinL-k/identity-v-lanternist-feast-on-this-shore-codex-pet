@@ -10,6 +10,7 @@
 | --- | --- | --- | --- |
 | 幻灯师 · 于此岸赴宴 | 标准版 | [下载 ZIP](downloads/幻灯师·于此岸赴宴.zip) | [动作总览](preview/幻灯师·于此岸赴宴/contact-sheet.png) · [左跑](preview/幻灯师·于此岸赴宴/running-left.gif) |
 | 幻灯师 · 于此岸赴宴 | Q版 | [下载 ZIP](downloads/幻灯师·于此岸赴宴%20Q版.zip) | [动作总览](preview/幻灯师·于此岸赴宴%20Q版/contact-sheet.png) · [左跑](preview/幻灯师·于此岸赴宴%20Q版/running-left.gif) |
+| 机械师 · 锁芯 | 标准版 | [下载 ZIP](downloads/机械师·锁芯.zip) | [全部动作](preview/机械师·锁芯/all-states.gif) · [动作总览](preview/机械师·锁芯/contact-sheet.png) |
 | 机械师 · 锁芯 | Q版 | [下载 ZIP](downloads/机械师·锁芯%20Q版.zip) | [全部动作](preview/机械师·锁芯%20Q版/all-states.gif) · [MP4](preview/机械师·锁芯%20Q版/all-states.mp4) · [动作总览](preview/机械师·锁芯%20Q版/contact-sheet.png) |
 
 ### 幻灯师 · 于此岸赴宴
@@ -18,6 +19,14 @@
 
 ![幻灯师·于此岸赴宴](preview/幻灯师·于此岸赴宴/idle.gif)
 ![幻灯师·于此岸赴宴 Q版](preview/幻灯师·于此岸赴宴%20Q版/idle.gif)
+
+### 机械师 · 锁芯
+
+修长精致的标准版，保留紫晶锁瞳与非对称机械臂，可与 Q版独立安装。
+
+![机械师·锁芯](preview/机械师·锁芯/idle.gif)
+
+[全部动作](preview/机械师·锁芯/all-states.gif) · [16 方向注视](preview/机械师·锁芯/look-loop.gif)
 
 ### 机械师 · 锁芯 Q版
 
@@ -50,6 +59,11 @@
     spritesheet.webp
     spritesheet.png
     layout.json
+  机械师·锁芯/
+    pet.json
+    spritesheet.webp
+    spritesheet.png
+    layout.json
   机械师·锁芯 Q版/
     pet.json
     spritesheet.webp
@@ -77,7 +91,7 @@
 
 已发布图集通过 v2 结构检查，WebP 解码后的 RGBA 与对应 PNG 完全一致。各动作 GIF 从发布图集生成；预览时长不代表所有客户端的运行时播放策略。文件校验值见 [SHA256SUMS.txt](SHA256SUMS.txt)。
 
-已有两个幻灯师版本的素材与安装包保持不变。早期版本仍可从普通 Git 历史中恢复。
+本次补充机械师·锁芯标准版；Q版与用户指定图集逐像素一致，保留现有素材与安装包。已有两个幻灯师版本的素材与安装包保持不变。早期版本仍可从普通 Git 历史中恢复。
 
 ## 声明与署名
 

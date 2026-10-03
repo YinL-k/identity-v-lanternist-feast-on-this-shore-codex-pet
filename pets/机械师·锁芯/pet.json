@@ -1,0 +1,7 @@
+{
+  "id": "mechanic-lock-core",
+  "displayName": "机械师·锁芯",
+  "description": "修长精致的锁芯，保留紫晶锁瞳与非对称机械臂，会灵动地招呼、侧跑、跳跃、工作和转头注视。",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
