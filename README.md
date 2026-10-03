@@ -12,6 +12,7 @@
 | 幻灯师 · 于此岸赴宴 | Q版 | [下载 ZIP](downloads/幻灯师·于此岸赴宴%20Q版.zip) | [动作总览](preview/幻灯师·于此岸赴宴%20Q版/contact-sheet.png) · [左跑](preview/幻灯师·于此岸赴宴%20Q版/running-left.gif) |
 | 机械师 · 锁芯 | 标准版 | [下载 ZIP](downloads/机械师·锁芯.zip) | [全部动作](preview/机械师·锁芯/all-states.gif) · [动作总览](preview/机械师·锁芯/contact-sheet.png) |
 | 机械师 · 锁芯 | Q版 | [下载 ZIP](downloads/机械师·锁芯%20Q版.zip) | [全部动作](preview/机械师·锁芯%20Q版/all-states.gif) · [MP4](preview/机械师·锁芯%20Q版/all-states.mp4) · [动作总览](preview/机械师·锁芯%20Q版/contact-sheet.png) |
+| 舞女 · 钟阁杼思 | 原版 | [下载 ZIP](downloads/舞女·钟阁杼思.zip) | [全部动作](preview/舞女·钟阁杼思/all-states.gif) · [动作总览](preview/舞女·钟阁杼思/contact-sheet.png) |
 
 ### 幻灯师 · 于此岸赴宴
 
@@ -36,6 +37,14 @@
 
 [向左跑](preview/机械师·锁芯%20Q版/running-left.gif) · [向右跑](preview/机械师·锁芯%20Q版/running-right.gif) · [跳跃](preview/机械师·锁芯%20Q版/jumping.gif) · [待机与跳跃衔接](preview/机械师·锁芯%20Q版/idle-jump-idle.gif) · [16 方向注视](preview/机械师·锁芯%20Q版/look-loop.gif)
 
+### 舞女 · 钟阁杼思
+
+冰蓝与鎏金交织的纤长瓷偶舞女，会轻摆致意、优雅起落，并随着视线转头。本次收录用户指定的原版。
+
+![舞女·钟阁杼思](preview/舞女·钟阁杼思/idle.gif)
+
+[全部动作](preview/舞女·钟阁杼思/all-states.gif) · [16 方向注视](preview/舞女·钟阁杼思/look-loop.gif)
+
 ## 安装到 Codex
 
 适用于支持本地自定义宠物及 **v2 精灵图** 的 Codex 桌面客户端。这里提供的是本地文件包；GitHub ZIP 不是 ChatGPT Work 的一键领养链接。尚未对其他客户端或所有客户端版本做安装测试。
@@ -55,6 +64,11 @@
     spritesheet.png
     layout.json
   幻灯师·于此岸赴宴 Q版/
+    pet.json
+    spritesheet.webp
+    spritesheet.png
+    layout.json
+  舞女·钟阁杼思/
     pet.json
     spritesheet.webp
     spritesheet.png
@@ -91,7 +105,7 @@
 
 已发布图集通过 v2 结构检查，WebP 解码后的 RGBA 与对应 PNG 完全一致。各动作 GIF 从发布图集生成；预览时长不代表所有客户端的运行时播放策略。文件校验值见 [SHA256SUMS.txt](SHA256SUMS.txt)。
 
-本次补充机械师·锁芯标准版；Q版与用户指定图集逐像素一致，保留现有素材与安装包。已有两个幻灯师版本的素材与安装包保持不变。早期版本仍可从普通 Git 历史中恢复。
+本次补充舞女·钟阁杼思原版，已有机械师两个版本的素材与安装包保持不变。已有两个幻灯师版本的素材与安装包保持不变。早期版本仍可从普通 Git 历史中恢复。
 
 ## 声明与署名
 
