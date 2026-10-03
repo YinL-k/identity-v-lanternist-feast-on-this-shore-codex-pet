@@ -18,6 +18,7 @@
 | 机械师 · 锁芯 | Q版 | [下载 ZIP](downloads/机械师·锁芯%20Q版.zip) | [全部动作](preview/机械师·锁芯%20Q版/all-states.gif) · [MP4](preview/机械师·锁芯%20Q版/all-states.mp4) · [动作总览](preview/机械师·锁芯%20Q版/contact-sheet.png) |
 | 舞女 · 钟阁杼思 | 原版 | [下载 ZIP](downloads/舞女·钟阁杼思.zip) | [全部动作](preview/舞女·钟阁杼思/all-states.gif) · [动作总览](preview/舞女·钟阁杼思/contact-sheet.png) |
 | 祭司 · 绯 | 修长玩偶版 | [下载 ZIP](downloads/祭司·绯.zip) | [全部动作](preview/祭司·绯/all-states.gif) · [MP4](preview/祭司·绯/all-states.mp4) |
+| 机械师 · 心锁 | 修长人偶版 | [下载 ZIP](downloads/机械师·心锁.zip) | [全部动作](preview/机械师·心锁/all-states.gif) · [MP4](preview/机械师·心锁/all-states.mp4) |
 
 ## 角色与时装
 
@@ -62,6 +63,14 @@
 ![祭司·绯](preview/祭司·绯/idle.gif)
 
 [全部动作](preview/祭司·绯/all-states.gif) · [MP4](preview/祭司·绯/all-states.mp4) · [16 方向注视](preview/祭司·绯/look-loop.gif)
+
+### 机械师 · 心锁
+
+护目镜礼帽、金色纽扣眼与红金外套，收在修长人偶的轮廓里。她握着心锁点头、跃起，深蓝裙摆与靴子一同落回桌面。本次发布包含跳跃头部动作及鞋款一致性修正版。
+
+![机械师·心锁](preview/机械师·心锁/idle.gif)
+
+[全部动作](preview/机械师·心锁/all-states.gif) · [跳跃](preview/机械师·心锁/jumping.gif) · [MP4](preview/机械师·心锁/all-states.mp4) · [16 方向注视](preview/机械师·心锁/look-loop.gif)
 
 ## 安装到 Codex
 
