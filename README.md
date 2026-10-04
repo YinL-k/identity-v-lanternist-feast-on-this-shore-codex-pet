@@ -91,8 +91,8 @@
 
 欢迎新的角色、时装、不同画风，也欢迎动作修复、安装说明和客户端适配。
 
-- 想看某个角色、遇到问题，或作品还没有整理完整：直接提 [Issue](https://github.com/YinL-k/identity-v-lanternist-feast-on-this-shore-codex-pet/issues)
-- 已有作品：提交 [Pull Request](https://github.com/YinL-k/identity-v-lanternist-feast-on-this-shore-codex-pet/pulls)，附预览，并注明原作者与来源
+- 想看某个角色、遇到问题，或作品还没有整理完整：直接提 [Issue](https://github.com/YinL-k/identity-v-desktop-pets/issues)
+- 已有作品：提交 [Pull Request](https://github.com/YinL-k/identity-v-desktop-pets/pulls)，附预览，并注明原作者与来源
 - 不要求提交授权证明；请尊重原作者明确标注的使用限制，署名本身不代替授权
 
 目录、图集要求，以及如何写出和现有角色一致的文案，见 [CONTRIBUTING.md](CONTRIBUTING.md)。
